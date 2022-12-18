@@ -1,0 +1,37 @@
+.feynman {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  margin: 0;
+  padding-top: 100px;
+  min-height: 890px;
+  position: relative;
+  background-color: #f2f2f2;
+  background-image: url("/images/feynman.png");
+  background-repeat: no-repeat;
+  background-position-x: left;
+  background-position-y: bottom;
+}
+
+.khan {
+  margin: 0 auto;
+  padding: 105px;
+}
+.khan__container {
+}
+.khan__author {
+}
+.khan__title {
+}
+.khan__quote {
+}
+.khan__quote-author {
+}
+.quote-author-subline {
+}
+.khan__book-container {
+}
+.khan__book-pic {
+}
+.khan__buy-link {
+}
