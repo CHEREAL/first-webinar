@@ -1,4 +1,8 @@
 .footer__column-link {
   text-decoration: none;
   color: #fff;
+  transition: opacity 0.2s ease-in;
+}
+.footer__column-link:hover {
+  opacity: 0.6;
 }
